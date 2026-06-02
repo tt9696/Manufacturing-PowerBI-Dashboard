@@ -25,6 +25,9 @@ This project is a self-learning Power BI dashboard built to practice data visual
 - Line Chart (Trends)
 - Bar Chart (Machine defects)
 - Pie Chart (Shift distribution)
+- 
+## 📊 Dashboard Preview
+![Dashboard](dashboard.png)
 
 ## Disclaimer
 This is a self-learning project created for practice purposes using simulated data.
